@@ -1,1 +1,2 @@
-# ZAKAT-CALCULATOR
+ALMSGIVING – A Zakat Management System  
+This was my first university project, completed in August 2022. It was not a mandatory assignment, but my team and I took the initiative to explore something new. ALMSGIVING is a project focused on Zakat Management, designed to make the process of calculating and managing Zakat more efficient. Since we did this just for fun and learning, the code was not highly structured or refined. However, it was a valuable experience that enhanced our problem-solving skills and expanded our technical knowledge.
